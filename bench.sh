@@ -60,6 +60,7 @@ speed() {
     speed_test 'http://speedtest.fra02.softlayer.com/downloads/test100.zip' 'Softlayer, Frankfurt, DE'
     speed_test 'http://speedtest.sng01.softlayer.com/downloads/test100.zip' 'Softlayer, Singapore, SG'
     speed_test 'http://speedtest.hkg02.softlayer.com/downloads/test100.zip' 'Softlayer, HongKong, CN'
+    speed_test 'http://dldir1.qq.com/qqfile/qq/QQ8.2/17720/QQ8.2.exe' 'QQ8.2.exe'
 }
 
 speed_v6() {
